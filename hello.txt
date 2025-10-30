@@ -1,1 +1,3 @@
 Halo GitHub!
+Ini baris kedua dari latihan Git.
+Tes commit kedua
